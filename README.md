@@ -7,3 +7,4 @@
 📍 텀프로젝트 2단계 설명 영상 [바로가기](https://youtu.be/O5-iMzRg3Qc)
 
 
+![캡처](https://user-images.githubusercontent.com/96376448/146676779-809adc69-6c58-417a-aff3-4d56ff4cb430.PNG)
